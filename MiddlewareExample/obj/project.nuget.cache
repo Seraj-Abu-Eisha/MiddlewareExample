@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5ZfDTqIbU4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Working\\source\\repos\\MiddlewareExample\\MiddlewareExample\\MiddlewareExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Working\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.303\\microsoft.net.sdk.compilers.toolset.9.0.303.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -26,3 +26,4 @@ C:\Users\Working\source\repos\MiddlewareExample\MiddlewareExample\obj\Debug\net9
 C:\Users\Working\source\repos\MiddlewareExample\MiddlewareExample\obj\Debug\net9.0\MiddlewareExample.pdb
 C:\Users\Working\source\repos\MiddlewareExample\MiddlewareExample\obj\Debug\net9.0\MiddlewareExample.genruntimeconfig.cache
 C:\Users\Working\source\repos\MiddlewareExample\MiddlewareExample\obj\Debug\net9.0\ref\MiddlewareExample.dll
+C:\Users\Working\source\repos\MiddlewareExample\MiddlewareExample\obj\Debug\net9.0\MiddlewareExample.sourcelink.json
